@@ -385,7 +385,7 @@ cscope.po.out
 
 
 ### Clojure template
-pom.xml
+#pom.xml
 pom.xml.asc
 *.jar
 *.class
@@ -13409,6 +13409,8 @@ jgiven-reports/
 *
 !*/
 !.gitignore
+!Dockerfile
+!JenkinsFile
 ###########################################################################
 ##	VIVADO
 ###########################################################################
@@ -16439,3 +16441,5 @@ tags
 ### Nohup template
 nohup.out
 
+!/JenkinsFile
+!/Dockerfile
