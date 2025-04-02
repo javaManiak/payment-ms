@@ -1,0 +1,5 @@
+# Created at 2025-04-01T10:02:23.747
+Boot Manifest-JAR contains absolute paths in classpath 'D:\synergisticit\codebases\DevOps\interview\distributed-transaction-main\payment-ms\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
